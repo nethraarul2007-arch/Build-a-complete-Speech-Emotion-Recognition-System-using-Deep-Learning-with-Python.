@@ -1,0 +1,2 @@
+# Build-a-complete-Speech-Emotion-Recognition-System-using-Deep-Learning-with-Python.
+# Speech Emotion Recognition System  A deep learning-based **Speech Emotion Recognition (SER)** system built with Python that analyzes human speech and identifies emotions from audio signals. The system uses **MFCC and other audio features** with a neural network model to classify emotions such as **happy, sad, angry, fear, neutral, and surprise**.
